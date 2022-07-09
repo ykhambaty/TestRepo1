@@ -1,5 +1,5 @@
 name: myfirstworkflow
-on: [oush]
+on: [push]
 jobs:
   checks-bats-version:
     runs-on: ubuntu-latest
